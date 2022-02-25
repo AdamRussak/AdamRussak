@@ -18,9 +18,10 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+<code><img height="50" src="https://helm.sh/img/helm.svg"></code>
+<code><img height="50" src="https://icon-library.com/images/json-icon-png/json-icon-png-18.jpg"></code>
 
 
 
-| <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamRussak&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Adams's github stats" /></a> | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRussak&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamRussak&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Adam's github stats" /></a> | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRussak&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
