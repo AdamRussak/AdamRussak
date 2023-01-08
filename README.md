@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-**Visitor count**<br>
- <img src="https://profile-counter.glitch.me/AdamRussak/count.svg" />
-
-  
   
 **Front-End Languages:**<br>
 
@@ -31,3 +26,10 @@
 
 | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamRussak&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Adam's github stats" /></a> | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRussak&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+
+<p align="center"> 
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/AdamRussak/count.svg" />
+</p
