@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AdamRussak/count.svg" />
-</p
+**Visitor count**<br>
+ <img src="https://profile-counter.glitch.me/AdamRussak/count.svg" />
+
   
   
 **Front-End Languages:**<br>
