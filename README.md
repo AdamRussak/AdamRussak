@@ -7,6 +7,7 @@
 **Back-End Languages:**<br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg"></code>
 
 **Scripting / System Languages:**<br>
 
@@ -22,7 +23,11 @@
 <code><img height="50" src="https://helm.sh/img/helm.svg"></code>
 <code><img height="50" src="https://icon-library.com/images/json-icon-png/json-icon-png-18.jpg"></code>
 
+**DB's**
 
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"></code>
 
 | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamRussak&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Adam's github stats" /></a> | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRussak&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
