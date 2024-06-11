@@ -6,7 +6,7 @@
 
 **Back-End Languages:**<br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png"></code>
+<code><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg"></code>
 
 **Scripting / System Languages:**<br>
