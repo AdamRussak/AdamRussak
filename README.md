@@ -28,7 +28,12 @@
 <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"></code>
 
+**Public Clouds**
+
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg"></code>
 | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamRussak&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Adam's github stats" /></a> | <a href="https://github.com/AdamRussak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamRussak&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
